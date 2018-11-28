@@ -1,2 +1,2 @@
 # R-Intermediate-Class
-Data Manipulation, Data Analysis, Web Scraping and Twitter Mining
+Data Manipulation, Data Analysis, Web Scraping and Tweets Mining
